@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield – Cybersecurity Awareness Hub",
+  "description": "Interactive cybersecurity awareness platform for college students and beginners to understand cyber threats, master password hygiene, take assessments, and secure their digital lives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
